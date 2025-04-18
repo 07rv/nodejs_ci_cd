@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_ci_cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/07rv/nodejs_ci_cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/07rv/nodejs_ci_cd/issues"
+  },
+  "homepage": "https://github.com/07rv/nodejs_ci_cd#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
